@@ -5668,8 +5668,8 @@ def settings_page():
 # LOGIN, VERSION, AND AUTO BACKUP
 # -----------------------------
 USER_ACCOUNTS = {
-    "admin": {"password": "admin123", "role": "Admin", "display_name": "Admin User"},
-    "viewer": {"password": "viewer123", "role": "Viewer", "display_name": "Viewer User"},
+    "Farmfixadmin": {"password": "Farmfixadmin123", "role": "Admin", "display_name": "Farmfix Admin"},
+    "PDExecutive": {"password": "PDExecutive", "role": "Viewer", "display_name": "Viewer User"},
 }
 
 
