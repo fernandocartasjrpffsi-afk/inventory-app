@@ -1,0 +1,92 @@
+reference_no,product_name,active_ingredient,batch_number,location,out_date,quantity,packaging,unit,pullout_by,purpose,remarks,matched_product_id,match_reason
+SOUT-IMP-0001,FYTOFERT PHOSCO,,CF04609231,LAB,2025-03-25,2.0,1,kg,FD CARTAS,Sample Release,Used in Impact and Farmfix Collab trial,51,score 18
+SOUT-IMP-0002,Delfan Plus,,,Warehouse,2025-03-25,2.0,1,L,FD CARTAS,Sample Release,Used in Impact and Farmfix Collab trial,55,score 11
+SOUT-IMP-0003,FYTOFERT PHOSCO,,CF04609231,LAB,2025-04-11,3.0,1,kg,J Del Rosario,Sample Release,used in solubility test at SIRI TULIN Phil,51,score 18
+SOUT-IMP-0004,FYTOFERT PHOSCO,,CF04609231,LAB,2025-04-14,5.0,1,kg,FD CARTAS,Sample Release,Used in solubility testing,51,score 18
+SOUT-IMP-0005,FYTOFERT PHOSCO,,CF04609231,LAB,2025-04-16,2.0,1,kg,FD CARTAS,Sample Release,Used in Impact and Farmfix Collab trial,51,score 18
+SOUT-IMP-0006,Delfan Plus,,,Warehouse,2025-04-16,2.0,1,L,FD CARTAS,Sample Release,Used in Impact and Farmfix Collab trial,55,score 11
+SOUT-IMP-0007,FARMFIX GIBBERELLIC ACID,,20240725-2,C1,2025-04-23,1.0,250,g,A. Rodriguez,Sample Release,Samples for Dole Phil (M. Nunez),32,score 18
+SOUT-IMP-0008,HALOXYFOP P EC 108 g/L,,20240203,A1,2025-05-07,5.0,100,ML,A. Rodriguez,Sample Release,Samples for Dole Phil (R. PEREZ),5,score 18
+SOUT-IMP-0009,PROTEX,,202/2024,A1,2025-05-12,1.0,1,L,A. Rodriguez,Sample Release,Samples were given to R. Morales (For DAVCO TRIAL),2,score 18
+SOUT-IMP-0010,PROTEX,,202/2024,A1,2025-05-10,2.0,250,ml,A. Rodriguez,Sample Release,Samples were given to R. Morales (For DAVCO TRIAL),1,score 18
+SOUT-IMP-0011,TURBO ROOT WG,,24L1740,C1,2025-05-09,6.0,1,Kg,A. Rodriguez,Sample Release,Samples for Dole Phil (M. Nunez),57,score 18
+SOUT-IMP-0012,GA3-1B,GA3 2% + IBAK 3% + Brassinolide 0.01% TB,20250302,LAB,2025-05-09,2.0,1,tablet,A. Rodriguez,Sample Release,Samples for Dole Phil (M. Nunez),58,score 18
+SOUT-IMP-0013,Humic Acid (Biostimulant TB),Humic Acid 10% + Fulvic Acid + Amino Acid 7%,20250315,LAB,2025-05-09,2.0,1,tablet,A. Rodriguez,Sample Release,Samples for Dole Phil (M. Nunez),59,score 18
+SOUT-IMP-0014,PROTEX,CaO and N,646/24,B1,2025-05-10,5.0,1,L,A. Rodriguez,Sample Release,Samples were given to R. Morales (For DAVCO TRIAL),56,score 18
+SOUT-IMP-0015,FYTOFERT PHOSCO,,CF042609244,LAB,2025-05-10,6.0,1,kg,J Del Rosario,Sample Release,Used in Nick farm (Tibal.og),60,score 18
+SOUT-IMP-0016,Delfan Plus,,,Warehouse,2025-05-10,2.0,1,L,J Del Rosario,Sample Release,Used in Impact and Farmfix Collab trial,55,score 11
+SOUT-IMP-0017,FYTOFERT PHOSCO,,CF04609231,LAB,2025-05-10,2.0,1,kg,J Del Rosario,Sample Release,Used in Impact and Farmfix Collab trial,51,score 18
+SOUT-IMP-0018,FYTOFERT PHOSCO,,CF042609244,LAB,2025-05-20,4.0,1,kg,J Del Rosario,Sample Release,Submitted to Bobbys Farm,60,score 18
+SOUT-IMP-0019,FARMFIX GIBBERELLIC ACID,,20240725-1,C1,2025-05-27,1.0,250,g,A. Rodriguez,Sample Release,Sample for Doc Minerva of Dole Phil. | Imported note: blank QTY assumed as 1.,30,score 18
+SOUT-IMP-0020,Delfan Plus,,,Warehouse,2025-06-30,15.0,1,L,A. Rodriguez,Sample Release,Sample submitted to J. Blandra,55,score 11
+SOUT-IMP-0021,Delfan Plus,,,Warehouse,2025-05-22,2.0,1,L,J Del Rosario,Sample Release,Used in Impact and Farmfix Collab trial,55,score 11
+SOUT-IMP-0022,FYTOFERT PHOSCO,,CF042609244,LAB,2025-05-22,2.0,1,kg,J Del Rosario,Sample Release,Used in Impact and Farmfix Collab trial,60,score 18
+SOUT-IMP-0023,PROTEX,,202/2024,A1,2025-05-22,1.0,250,ml,J Del Rosario,Sample Release,Samples for registration purposes,1,score 18
+SOUT-IMP-0024,Polyversum (Oil dispersion),Phythium oligandrum,,B1,2022-05-28,1.0,100,ml,FD CARTAS,Sample Release,Sample given to JM,61,score 11
+SOUT-IMP-0025,FARMFIX ETHEPHON 75SL,,,B1,2025-07-18,2.0,1,L,FD CARTAS,Sample Release,Sample submitted to Sumifru,65,score 11
+SOUT-IMP-0026,FLUROXYPYR 25EC,,,B1,2025-06-15,40.0,1,L,A. Rodriguez,Sample Release,Submitted to Dr. Reio Perez,64,score 11
+SOUT-IMP-0027,FARMFIX ETHEPHON 75SL,,20230804,A2,2025-06-15,1.0,250,ml,A. Rodriguez,Sample Release,Submitted to Dr. Nunez,38,score 18
+SOUT-IMP-0028,FARMFIX ETHEPHON 75SL,,20230804,A2,2025-06-30,1.0,250,ml,A. Rodriguez,Sample Release,Sample submitted to J. Blandra,38,score 18
+SOUT-IMP-0029,Delfan Plus,,,Warehouse,2025-05-20,4.0,1,L,J Del Rosario,Sample Release,Sample submitted to J. Blandra,55,score 11
+SOUT-IMP-0030,FYTOFERT PHOSCO,,CF042609244,LAB,2025-07-01,5.0,1,kg,A. Rodriguez,Sample Release,Sample submitted to R. Ordoyo,60,score 18
+SOUT-IMP-0031,FYTOFERT PHOSCO,,CF042609244,LAB,2025-07-14,5.0,1,kg,A. Rodriguez,Sample Release,Sample requested by A Dingding for look see trial,60,score 18
+SOUT-IMP-0032,Delfan Plus,,,Warehouse,2025-07-14,5.0,1,L,A. Rodriguez,Sample Release,Sample requested by A Dingding for look see trial,55,score 11
+SOUT-IMP-0033,UPSHOT 480SL,,20230525,A1,2025-07-14,1.0,1,L,FD CARTAS,Sample Release,Used in Ula,39,score 18
+SOUT-IMP-0034,FYTOFERT PHOSCO,,CF042609244,C1,2025-08-01,4.0,1,kg,J Del Rosario,Sample Release,Used in Ula & Compatibility/Solubility Test,86,score 18
+SOUT-IMP-0035,FARMFIX ETHEPHON 75SL,,,B1,2025-07-18,8.0,1,L,FD Cartas,Sample Release,Submitted to Sumifru for Evaluation,65,score 11
+SOUT-IMP-0036,FYTOFERT PHOSCO,,CF042609244,LAB,2025-07-21,2.0,1,kg,R. Sarucam,Sample Release,Used for Demo (T. Amores),60,score 18
+SOUT-IMP-0037,FYTOFERT PHOSCO,,CF042609244,C1,2025-07-21,6.0,1,kg,J Del Rosario,Sample Release,Used in Nick farm (Tibal.og),86,score 18
+SOUT-IMP-0038,FYTOFERT PHOSCO,,CF042609244,C1,2025-07-31,1.0,1,kg,FDC,Sample Release,Sample for Sumifru; For evaluation,86,score 18
+SOUT-IMP-0039,FYTOFERT PHOSCO,,CF042609244,C1,2025-08-01,1.0,1,kg,J Del Rosario,Sample Release,Samples for TADECO for evaluation,86,score 18
+SOUT-IMP-0040,VERNO Cu30 + Zn30,,,LAB,2025-07-31,1.0,250,g,FDC,Sample Release,Sample for Sumifru; For evaluation,43,score 11
+SOUT-IMP-0041,OLIGO 5% + CHITOSAN 5% + S.A 1% SL,,20230802-1,A2,2025-08-25,3.0,250,ml,FDC,Sample Release,Used in Ula,14,score 18
+SOUT-IMP-0042,ACOJIN 80WP,,20241130,C2,2025-08-25,3.0,500,g,A. Rodriguez,Sample Release,used is seed dipping of pineapple crown in warehouse,42,score 18
+SOUT-IMP-0043,FYTOFERT PHOSCO,,CF042609244,C1,2025-08-20,5.0,1,kg,A. Rodriguez,Sample Release,Sample requested by A Dingding for look see trial,86,score 18
+SOUT-IMP-0044,Delfan Plus,,,Warehouse,2025-08-20,5.0,1,L,A. Rodriguez,Sample Release,Sample requested by A Dingding for look see trial,55,score 11
+SOUT-IMP-0045,Delfan Plus,,,Warehouse,2025-08-22,6.0,1,L,A. Rodriguez,Sample Release,Sample for Alson,55,score 11
+SOUT-IMP-0046,ACOJIN 80WP,,20241130,C2,2025-08-28,10.0,500,g,A. Rodriguez,Sample Release,Sample for Dole phil,42,score 18
+SOUT-IMP-0047,FYTOFERT PHOSCO,,CF042609244,C1,2025-09-05,8.0,1,kg,J Del Rosario,Sample Release,Sample for Nick Gabo and Impact for trial purposes.,86,score 18
+SOUT-IMP-0048,NEB 88 ULTRA,Root Exudates (OM: 35 - 40%),,A2,2025-09-18,0.5,1,L,A. Rodriguez,Sample Release,sample for Tristar for evaluation,89,score 11
+SOUT-IMP-0049,FYTOFERT PHOSCO,,CF042609244,LAB,2025-09-18,1.0,1,kg,A. Rodriguez,Sample Release,sample for Tristar for evaluation,60,score 18
+SOUT-IMP-0050,Delfan Plus,,,Warehouse,2025-09-18,1.0,1,L,A. Rodriguez,Sample Release,sample for Tristar for evaluation,55,score 11
+SOUT-IMP-0051,HALOXYFOP P EC 108 g/L,Haloxyfop-P-Methyl,G2025070055,A1,2025-09-21,2.0,1,L,FD CARTAS,Sample Release,Sample for Doc Reio Perez for Evaluation,88,score 18
+SOUT-IMP-0052,Clethodim 240EC,Clethodim,20250718,A1,2025-09-21,2.0,1,L,FD CARTAS,Sample Release,Sample for Doc Reio Perez for Evaluation,87,score 18
+SOUT-IMP-0053,HALOXYFOP P EC 108 g/L,Haloxyfop-P-Methyl,G2025070055,A1,2025-09-21,2.0,1,L,FD CARTAS,Sample Release,Sample for DMPI,88,score 18
+SOUT-IMP-0054,Clethodim 240EC,Clethodim,20250718,A1,2025-09-21,2.0,1,L,FD CARTAS,Sample Release,Sample for DMPI,87,score 18
+SOUT-IMP-0055,FLUROXYPYR 25EC,,,B1,2025-10-02,5.0,1,L,FD CARTAS,Sample Release,Sample for DMPI,64,score 11
+SOUT-IMP-0056,TURBO ROOT WG,,24L1740,C1,2025-10-02,1.0,1,Kg,FD CARTAS,Sample Release,Sample for DMPI,57,score 18
+SOUT-IMP-0057,NEB 88 ULTRA,Root Exudates (OM: 35 - 40%),,A2,2025-10-02,1.0,1,L,FD CARTAS,Sample Release,Sample for DMPI,89,score 11
+SOUT-IMP-0058,PROTEX,CaO and N,646/24,B1,2025-10-02,3.0,1,L,FD CARTAS,Sample Release,Sample for DMPI,56,score 18
+SOUT-IMP-0059,Metsulfuron,,,C1,2025-10-03,3.0,1,kg,FD CARTAS,Sample Release,Sample for DMPI,85,score 11
+SOUT-IMP-0060,BANACORE,Cinnamaldehyde,,Lab,2025-10-07,0.25,1,L,FD CARTAS,Sample Release,Sample for TADECO,69,score 11
+SOUT-IMP-0061,Polyversum (Oil dispersion),Phythium oligandrum,,B1,2025-10-07,3.0,100,ml,FD CARTAS,Sample Release,Sample for TADECO,61,score 11
+SOUT-IMP-0062,AA8,"OLI 5%, CHI 5%, SA 1%, N 7%, AA 10%, Mo 0.01%, Mn + Zn + B 2%)",20250511,B3,2025-10-07,0.25,1,L,FD CARTAS,Sample Release,Sample for TADECO,78,score 18
+SOUT-IMP-0063,QUIZALOFOP P ETHYL 100 EC,,20231212,A1,2025-10-13,1.0,500,ml,FD CARTAS,Sample Release,Sample for Sir A. Dingding to be submitted to DOLE PHIL,7,score 18
+SOUT-IMP-0064,PROTEX,,202/2024,A1,2025-10-13,1.0,250,ml,FD CARTAS,Sample Release,Sample for A. Torentera (for Registration),1,score 18
+SOUT-IMP-0065,Polyversum (Oil dispersion),Phythium oligandrum,,B1,2025-10-13,1.0,100,ml,FD CARTAS,Sample Release,Sample for A. Torentera (for Registration),61,score 11
+SOUT-IMP-0066,NORDOX 75WG,,,LAB,2025-10-08,3.0,250,g,FD CARTAS,Disposal,Expired,45,score 11
+SOUT-IMP-0067,OLIGO 5% + CHITOSAN 5% + S.A 1% SL,,20230802-1,A2,2025-10-08,4.0,250,ml,FD CARTAS,Disposal,"Expired/Sample transferred to ULA, will used in Trials",14,score 18
+SOUT-IMP-0068,TYPHON,,23071402,A2,2025-10-08,4.0,1,L,FD CARTAS,Disposal,Expired/for disposal-subject for approval,15,score 18
+SOUT-IMP-0069,IAA,,,C3,2025-10-08,3.0,100,g,FD Cartas,Disposal,"Discolored/Damage sample- Discarded, subject for Disposal",25,score 11
+SOUT-IMP-0070,SALICYLIC ACID,,202312-7,C3,2025-10-08,5.0,100,g,FD Cartas,Disposal,"Discolored/Damage sample- Discarded, subject for Disposal",26,score 18
+SOUT-IMP-0071,ACOJIN 80WP,,32524,C3,2025-10-08,1.0,2,kg,FD CARTAS,Disposal,Damage Sample/Discolored,35,score 18
+SOUT-IMP-0072,VERNO Cu30 + Zn30,,,C3,2025-10-08,3.0,1,kg,FD CARTAS,Disposal,Expired Sample/Subject for disposal,40,score 11
+SOUT-IMP-0073,PROTEX,CaO and N,646/24,B1,2025-10-14,2.0,1,L,FD CARTAS,Sample Release,For sir Rafael Morales,56,score 18
+SOUT-IMP-0074,FYTOFERT PHOSCO,,CF04609231,LAB,2025-10-21,1.0,1,kg,FD CARTAS,Sample Release,Used in Ula,51,score 18
+SOUT-IMP-0075,FARMFIX MANCOZEB 80WP,,,C1,2025-10-21,1.0,1,kg,FD CARTAS,Sample Release,Used in Ula,49,score 11
+SOUT-IMP-0076,PRO-UV,Ca and N,2000/25,B1,2025-11-03,1.0,1,L,A. Rodriguez,Sample Release,Sample for R. Orias of DMFPI,91,score 18
+SOUT-IMP-0077,AA1,"AA (14%), + (B+Zn+Fe+Cu : 2%), + OM (9%)",20250610,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,71,score 18
+SOUT-IMP-0078,AA2,"TAA (42%), ON (7%), TP (36%), B+Zn+Fe+Cu (2%), OM (9%)",20250619,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,72,score 18
+SOUT-IMP-0079,AA3,"AA (35%), N (7.8%)",20250603,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,73,score 18
+SOUT-IMP-0080,AA4,"OM (24%), SE 15%, LAA 11%, N (5 - 6%), Mn + Zn +B + Fe + Mo",20250630,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,74,score 18
+SOUT-IMP-0081,AA5,"OM 20%, N 10%, AA 20%, FA 15%",20250617,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,75,score 18
+SOUT-IMP-0082,AA6,"OM 20%, N 4%, LAA 20%, SE 25%, SP 15%",20250618,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,76,score 18
+SOUT-IMP-0083,AA8,"OLI 5%, CHI 5%, SA 1%, N 7%, AA 10%, Mo 0.01%, Mn + Zn + B 2%)",20250511,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,78,score 18
+SOUT-IMP-0084,Nano Zn,Nano Zn 15%,20241227,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,79,score 18
+SOUT-IMP-0085,Nano Copper,Nano Cu 15%,1131015,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,80,score 18
+SOUT-IMP-0086,Nano Silver,Nano Silver 15%,BBEAFAC,B3,2025-11-06,0.25,1,L,A. Rodriguez,Sample Release,nan,81,score 18
+SOUT-IMP-0087,AA2,"TAA (42%), ON (7%), TP (36%), B+Zn+Fe+Cu (2%), OM (9%)",20250619,B2,2025-11-06,1.0,250,ml,FDC,Sample Release,Samples for Doc Ming. For evaluation Purposes,93,score 18
+SOUT-IMP-0088,AA8,"OLI 5%, CHI 5%, SA 1%, N 7%, AA 10%, Mo 0.01%, Mn + Zn + B 2%)",20250511,B2,2025-11-06,1.0,250,ml,FDC,Sample Release,Samples for Doc Ming. For evaluation Purposes,99,score 18
+SOUT-IMP-0089,Nano Copper,Nano Cu 15%,1131015,B2,2025-11-06,1.0,250,ml,FDC,Sample Release,Samples for Doc Ming. For evaluation Purposes,101,score 18
+SOUT-IMP-0090,Clethodim 240EC,Clethodim,20250718,A1,2025-11-20,0.5,1,L,A. Rodriguez,Sample Release,Sample for Registration,87,score 18
+SOUT-IMP-0091,Clethodim 240EC,Clethodim,20250718,A1,,0.5,1,L,FD cartas,Disposal,Damage sample/deformed/evaporated,87,score 18
