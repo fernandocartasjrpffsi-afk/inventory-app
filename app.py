@@ -38,7 +38,7 @@ except Exception:
     PPTX_AVAILABLE = False
 
 APP_TITLE = "Inventory App"
-APP_VERSION = "1.2.2"  # AI Assistant accuracy improvement
+APP_VERSION = "1.2.3"  # Removed default account note from login
 APP_DIR = Path(__file__).resolve().parent
 DB_PATH = APP_DIR / "inventory_app.db"
 UPLOAD_DIR = APP_DIR / "uploads"
@@ -5668,8 +5668,8 @@ def settings_page():
 # LOGIN, VERSION, AND AUTO BACKUP
 # -----------------------------
 USER_ACCOUNTS = {
-    "farmfixadmin": {"password": "Farmfixadmin123", "role": "Admin", "display_name": "Farmfix Admin"},
-    "pdexecutive": {"password": "pdexecutive123", "role": "Viewer", "display_name": "Viewer User"},
+    "admin": {"password": "admin123", "role": "Admin", "display_name": "Admin User"},
+    "viewer": {"password": "viewer123", "role": "Viewer", "display_name": "Viewer User"},
 }
 
 
@@ -7427,13 +7427,7 @@ def login_page():
 
             st.markdown(
                 """
-                <div class="login-helper">
-                    <b>Default accounts</b><br>
-                    Admin = <b>admin / admin123</b><br>
-                    Viewer = <b>viewer / viewer123</b>
-                    <br><span style="color:#8aa098;">You may change these credentials in the code later.</span>
-                </div>
-                <div class="login-version">Inventory App • Version 1.0</div>
+                <div class="login-version">Inventory App • Version {APP_VERSION}</div>
                 """,
                 unsafe_allow_html=True,
             )
